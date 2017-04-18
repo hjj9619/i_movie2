@@ -1,0 +1,27 @@
+{
+  "name": "i_movie2",
+  "version": "0.0.1",
+  "authors": [
+    "az22c <az22c@qq.com>"
+  ],
+  "description": "22c's movie",
+  "main": "app.js",
+  "keywords": [
+    "Node.js",
+    "MongoDB"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}

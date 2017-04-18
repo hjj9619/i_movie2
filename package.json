@@ -1,0 +1,26 @@
+{
+  "name": "i_movie2",
+  "version": "0.0.1",
+  "description": "22c's movie",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "jade": "^1.11.0",
+    "moment": "^2.18.1",
+    "mongoose": "^4.9.3",
+    "pug": "^2.0.0-beta11",
+    "serve-static": "^1.12.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "MongoDB"
+  ],
+  "author": "az22c <az22c@qq.com>",
+  "license": "ISC"
+}
